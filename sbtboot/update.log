@@ -1,0 +1,471 @@
+setting 'ivy.default.settings.dir' to 'jar:file:/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/sbt-launch.jar!/org/apache/ivy/core/settings'
+setting 'ivy.basedir' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/.'
+setting 'ivy.default.conf.dir' to 'jar:file:/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/sbt-launch.jar!/org/apache/ivy/core/settings'
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SshResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VsftpResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.version.PatternVersionMatcher in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.trigger.LogTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntBuildTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.IvyRepResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.signer.bouncycastle.OpenPGPSignatureGenerator in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.conflict.RegexpConflictManager in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.SFTPResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.osgi.updatesite.UpdateSiteResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.ant.AntCallTrigger in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.MirroredURLResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.packager.PackagerResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.DualResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.VfsResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.plugins.resolver.JarResolver in [] nor Ivy classloader
+impossible to define new type: class not found: org.apache.ivy.osgi.obr.OBRResolver in [] nor Ivy classloader
+impossible to define glob matcher: org.apache.ivy.plugins.matcher.GlobPatternMatcher was not found.
+setting 'jline.esc.timeout' to '0'
+setting 'sbt.ivy.home' to './ivyrepo'
+setting 'java.runtime.name' to 'OpenJDK Runtime Environment'
+setting 'sun.boot.library.path' to '/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/amd64'
+setting 'java.vm.version' to '25.102-b14'
+setting 'java.vm.vendor' to 'Oracle Corporation'
+setting 'java.vendor.url' to 'http://java.oracle.com/'
+setting 'path.separator' to ':'
+setting 'java.vm.name' to 'OpenJDK 64-Bit Server VM'
+setting 'file.encoding.pkg' to 'sun.io'
+setting 'user.country' to 'US'
+setting 'sun.java.launcher' to 'SUN_STANDARD'
+setting 'sun.os.patch.level' to 'unknown'
+setting 'java.vm.specification.name' to 'Java Virtual Machine Specification'
+setting 'user.dir' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70'
+setting 'java.runtime.version' to '1.8.0_102-b14'
+setting 'java.awt.graphicsenv' to 'sun.awt.X11GraphicsEnvironment'
+setting 'java.endorsed.dirs' to '/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/endorsed'
+setting 'os.arch' to 'amd64'
+setting 'java.io.tmpdir' to '/tmp'
+setting 'line.separator' to '
+'
+setting 'java.vm.specification.vendor' to 'Oracle Corporation'
+setting 'os.name' to 'Linux'
+setting 'sun.jnu.encoding' to 'UTF-8'
+setting 'java.library.path' to '/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib'
+setting 'java.specification.name' to 'Java Platform API Specification'
+setting 'java.class.version' to '52.0'
+setting 'sun.management.compiler' to 'HotSpot 64-Bit Tiered Compilers'
+setting 'os.version' to '4.2.3-300.fc23.x86_64'
+setting 'user.home' to '/home/mhashim'
+setting 'user.timezone' to 'Africa/Khartoum'
+setting 'java.awt.printerjob' to 'sun.print.PSPrinterJob'
+setting 'file.encoding' to 'UTF8'
+setting 'java.specification.version' to '1.8'
+setting 'java.class.path' to './sbt-launch.jar'
+setting 'user.name' to 'mhashim'
+setting 'jline.shutdownhook' to 'false'
+setting 'java.vm.specification.version' to '1.8'
+setting 'sun.java.command' to './sbt-launch.jar'
+setting 'java.home' to '/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre'
+setting 'sun.arch.data.model' to '64'
+setting 'user.language' to 'en'
+setting 'java.specification.vendor' to 'Oracle Corporation'
+setting 'awt.toolkit' to 'sun.awt.X11.XToolkit'
+setting 'java.vm.info' to 'mixed mode'
+setting 'java.version' to '1.8.0_102'
+setting 'java.ext.dirs' to '/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/ext:/usr/java/packages/lib/ext'
+setting 'sun.boot.class.path' to '/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.102-1.b14.fc24.x86_64/jre/classes'
+setting 'java.vendor' to 'Oracle Corporation'
+setting 'file.separator' to '/'
+setting 'java.vendor.url.bug' to 'http://bugreport.sun.com/bugreport/'
+setting 'sun.io.unicode.encoding' to 'UnicodeLittle'
+setting 'sun.cpu.endian' to 'little'
+setting 'sbt.boot.directory' to './sbtboot'
+setting 'sun.desktop' to 'gnome'
+setting 'sun.cpu.isalist' to ''
+setting 'ivy.default.ivy.user.dir' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo'
+setting 'ivy.home' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo'
+setting 'ivy.cache.dir' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache'
+no default cache defined: set to /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache
+setting 'ivy.checksums' to 'sha1,md5'
+setting 'ivy.basedir' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/sbtboot'
+setting 'basedir' to '/home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/sbtboot'
+:: resolving dependencies :: org.scala-sbt#boot-app;1.0
+	confs: [default]
+	validate = true
+	refresh = false
+resolving dependencies for configuration 'default'
+== resolving dependencies for org.scala-sbt#boot-app;1.0 [default]
+loadData of org.scala-sbt#boot-app;1.0 of rootConf=default
+== resolving dependencies org.scala-sbt#boot-app;1.0->org.scala-sbt#sbt;0.13.2 [default->default(compile)]
+loadData of org.scala-sbt#sbt;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#sbt;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#sbt;0.13.2 {default=[default(compile)]}
+redefined-public: no namespace defined: using system
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/sbt/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for org.scala-sbt#sbt;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/sbt/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#sbt;0.13.2
+redefined-public: no latest strategy defined: using default
+	found org.scala-sbt#sbt;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#sbt;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-library;2.10.3
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-library;2.10.3 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-library/ivy-2.10.3.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for org.scala-lang#scala-library;2.10.3 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-library/ivy-2.10.3.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-library;2.10.3
+	found org.scala-lang#scala-library;2.10.3 in redefined-public
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+	[2.10.3] org.scala-lang#scala-library;2.10.3
+== resolving dependencies org.scala-sbt#sbt;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+== resolving dependencies org.scala-sbt#sbt;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+== resolving dependencies org.scala-sbt#sbt;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+== resolving dependencies org.scala-sbt#sbt;0.13.2->org.scala-sbt#main;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#main;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#main;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#main;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/main/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for org.scala-sbt#main;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/main/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#main;0.13.2
+	found org.scala-sbt#main;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#main;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#main;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#main;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#main;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#main;0.13.2->org.scala-sbt#actions;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#actions;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#actions;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#actions;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/actions/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	found ivy file in cache for org.scala-sbt#actions;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/actions/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#actions;0.13.2
+	found org.scala-sbt#actions;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-sbt#classpath;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#classpath;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#classpath;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#classpath;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/classpath/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#classpath;0.13.2
+	configured resolver found for org.scala-sbt#classpath;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#classpath;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/classpath/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#classpath;0.13.2
+	found org.scala-sbt#classpath;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-compiler;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-compiler;2.10.3 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-compiler;2.10.3
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.3 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-compiler/ivy-2.10.3.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-compiler;2.10.3
+	configured resolver found for org.scala-lang#scala-compiler;2.10.3: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-compiler;2.10.3 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-compiler/ivy-2.10.3.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-compiler;2.10.3
+	found org.scala-lang#scala-compiler;2.10.3 in redefined-public
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-compiler;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-compiler;2.10.3 of rootConf=default
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-compiler;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-compiler;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->runtime(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [compile->master(*)]
+loadData of org.scala-lang#scala-reflect;2.10.3 of rootConf=default
+	using redefined-public to resolve org.scala-lang#scala-reflect;2.10.3
+redefined-public: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.3 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-reflect/ivy-2.10.3.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-lang#scala-reflect;2.10.3
+	configured resolver found for org.scala-lang#scala-reflect;2.10.3: redefined-public: saving this data
+	found ivy file in cache for org.scala-lang#scala-reflect;2.10.3 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-reflect/ivy-2.10.3.xml
+redefined-public: module revision found in cache: org.scala-lang#scala-reflect;2.10.3
+	found org.scala-lang#scala-reflect;2.10.3 in redefined-public
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [compile->compile(*)]
+loadData of org.scala-lang#scala-reflect;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->master(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->compile(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [compile->runtime(*)]
+loadData of org.scala-lang#scala-reflect;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-reflect;2.10.3 of rootConf=default
+== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [runtime->runtime(*)]
+loadData of org.scala-lang#scala-reflect;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [runtime->compile]
+loadData of org.scala-lang#scala-reflect;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-compiler;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-compiler;2.10.3 of rootConf=default
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-sbt#launcher-interface;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#launcher-interface;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#launcher-interface;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#launcher-interface;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/launcher-interface/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#launcher-interface;0.13.2
+	configured resolver found for org.scala-sbt#launcher-interface;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#launcher-interface;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/launcher-interface/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#launcher-interface;0.13.2
+	found org.scala-sbt#launcher-interface;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#launcher-interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#launcher-interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#launcher-interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#launcher-interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-sbt#interface;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#interface;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#interface;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#interface;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/interface/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#interface;0.13.2
+	configured resolver found for org.scala-sbt#interface;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#interface;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/interface/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#interface;0.13.2
+	found org.scala-sbt#interface;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#interface;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#classpath;0.13.2->org.scala-sbt#io;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#io;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#io;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#io;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/io/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#io;0.13.2
+	configured resolver found for org.scala-sbt#io;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#io;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/io/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#io;0.13.2
+	found org.scala-sbt#io;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#io;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#io;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#io;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#io;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#io;0.13.2->org.scala-sbt#control;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#control;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#control;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#control;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/control/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#control;0.13.2
+	configured resolver found for org.scala-sbt#control;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#control;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/control/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#control;0.13.2
+	found org.scala-sbt#control;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#control;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#control;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#control;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#control;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-sbt#completion;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#completion;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#completion;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#completion;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/completion/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#completion;0.13.2
+	configured resolver found for org.scala-sbt#completion;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#completion;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/completion/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#completion;0.13.2
+	found org.scala-sbt#completion;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-sbt#collections;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#collections;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#collections;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#collections;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/collections/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#collections;0.13.2
+	configured resolver found for org.scala-sbt#collections;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#collections;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/collections/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#collections;0.13.2
+	found org.scala-sbt#collections;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#collections;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#collections;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#collections;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#collections;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-sbt#control;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#control;0.13.2 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->org.scala-sbt#io;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#io;0.13.2 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#completion;0.13.2->jline#jline;2.11 [compile->default(compile)]
+loadData of jline#jline;2.11 of rootConf=default
+	using redefined-public to resolve jline#jline;2.11
+redefined-public: Checking cache for: dependency: jline#jline;2.11 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/jline/jline/ivy-2.11.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for jline#jline;2.11
+	configured resolver found for jline#jline;2.11: redefined-public: saving this data
+	found ivy file in cache for jline#jline;2.11 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/jline/jline/ivy-2.11.xml
+redefined-public: module revision found in cache: jline#jline;2.11
+	found jline#jline;2.11 in redefined-public
+== resolving dependencies org.scala-sbt#completion;0.13.2->jline#jline;2.11 [compile->runtime]
+loadData of jline#jline;2.11 of rootConf=default
+== resolving dependencies org.scala-sbt#completion;0.13.2->jline#jline;2.11 [compile->compile]
+loadData of jline#jline;2.11 of rootConf=default
+== resolving dependencies org.scala-sbt#completion;0.13.2->jline#jline;2.11 [compile->master]
+loadData of jline#jline;2.11 of rootConf=default
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-sbt#api;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#api;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#api;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#api;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/api/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#api;0.13.2
+	configured resolver found for org.scala-sbt#api;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#api;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/api/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#api;0.13.2
+	found org.scala-sbt#api;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#api;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#api;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#api;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#api;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#api;0.13.2->org.scala-sbt#interface;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#interface;0.13.2 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#actions;0.13.2->org.scala-sbt#compiler-integration;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#compiler-integration;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#compiler-integration;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#compiler-integration;0.13.2 {compile=[default(compile)]}
+No entry is found in the ModuleDescriptorCache : /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/compiler-integration/ivy-0.13.2.xml
+post 1.3 ivy file: using exact as default matcher
+	resolver not found: null => trying to use the one configured for org.scala-sbt#compiler-integration;0.13.2
+	configured resolver found for org.scala-sbt#compiler-integration;0.13.2: redefined-public: saving this data
+	found ivy file in cache for org.scala-sbt#compiler-integration;0.13.2 (resolved by redefined-public): /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/compiler-integration/ivy-0.13.2.xml
+redefined-public: module revision found in cache: org.scala-sbt#compiler-integration;0.13.2
+	found org.scala-sbt#compiler-integration;0.13.2 in redefined-public
+== resolving dependencies org.scala-sbt#compiler-integration;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->default(compile)]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#compiler-integration;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->runtime]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#compiler-integration;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->compile]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#compiler-integration;0.13.2->org.scala-lang#scala-library;2.10.3 [compile->master]
+loadData of org.scala-lang#scala-library;2.10.3 of rootConf=default
+default is loaded and no conf to load.  Skip loading
+== resolving dependencies org.scala-sbt#compiler-integration;0.13.2->org.scala-sbt#incremental-compiler;0.13.2 [compile->default(compile)]
+loadData of org.scala-sbt#incremental-compiler;0.13.2 of rootConf=default
+	using redefined-public to resolve org.scala-sbt#incremental-compiler;0.13.2
+redefined-public: Checking cache for: dependency: org.scala-sbt#incremental-compiler;0.13.2 {compile=[default(compile)]}
+	no ivy file in cache for org.scala-sbt#incremental-compiler;0.13.2: tried /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/incremental-compiler/ivy-0.13.2.xml
+local: no namespace defined: using system
+	no ivy file in cache for org.scala-sbt#incremental-compiler;0.13.2: tried /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-sbt/incremental-compiler/ivy-0.13.2.xml
+	 trying /home/mhashim/repos/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/local/org.scala-sbt/incremental-compiler/0.13.2/ivys/ivy.xml
+		tr
